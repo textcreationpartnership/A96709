@@ -1,0 +1,432 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A nevv dispensatory of fourty physicall receipts. Most necessary and profitable for all house-keepers in their families. Besides three other pleasant arts fit for young gentlemen. / Published by Salvatore Winter of Naples, an expert operator.</title>
+            <author>Winter, Salvator.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96709</idno>
+            <idno type="STC">Wing W3087</idno>
+            <idno type="STC">Thomason E573_3</idno>
+            <idno type="STC">ESTC R204107</idno>
+            <idno type="EEBO-CITATION">99863804</idno>
+            <idno type="PROQUEST">99863804</idno>
+            <idno type="VID">165388</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96709)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165388)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 88:E573[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A nevv dispensatory of fourty physicall receipts. Most necessary and profitable for all house-keepers in their families. Besides three other pleasant arts fit for young gentlemen. / Published by Salvatore Winter of Naples, an expert operator.</title>
+                  <author>Winter, Salvator.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year, 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Sept: 11th".</note>
+                  <note>Identified on UMI microfilm (Early English books, 1641-1700) reel 1771 as Wing (2nd ed.) W3086.</note>
+                  <note>Reproductions of the originals in the British Library (Thomason Tracts), and the Henry E. Huntington Library and Art Gallery (Early English books).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term>Medicine --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165388:1" rendition="simple:additions"/>
+            <p>A NEVV DISPENSATORY OF Fourty Phyſicall Receipts.</p>
+            <p>Moſt neceſſary and Profitable for all Houſe-Keepers in their Families.</p>
+            <p>Beſides three other pleaſant Arts fit for young Gentlemen.</p>
+            <p>Publiſhed by <hi>SALVATOR WINTER</hi> of <hi>Naples,</hi> An Expert Operator.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1649.</p>
+         </div>
+         <div type="publisher_to_the_reader">
+            <pb facs="tcp:165388:2"/>
+            <pb facs="tcp:165388:2"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Gentle Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>N my manifold Travels through <hi>Europe, Aſia,</hi> and <hi>Africa,</hi> I have ob<g ref="char:EOLhyphen"/>ſerved and learned many ſecrets, yea there is ſcarce any thing profitable for mans body, but I have knowledg
+<pb facs="tcp:165388:3"/>thereof. Here I do freely pre<g ref="char:EOLhyphen"/>ſent unto you fourty moſt ne<g ref="char:EOLhyphen"/>ceſſary Receipts, and very uſe<g ref="char:EOLhyphen"/>full in every family, where<g ref="char:EOLhyphen"/>of I have oftentimes made good proof; Accept of them thank<g ref="char:EOLhyphen"/>fully, and as you ſhall have oc<g ref="char:EOLhyphen"/>caſion make uſe thereof. So Farewell.</p>
+            <closer>
+               <signed>SALVATOR WINTER. Operator.</signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:165388:3"/>
+            <head>The Contents of this Book.</head>
+            <list>
+               <item>I. A Salve for all ſores.</item>
+               <item>II. For a Pin and Web, and a Pearl in the eye.</item>
+               <item>III. A ſpecial water for ſore eyes.</item>
+               <item>IV. For a deafneſs in the ears.</item>
+               <item>V. For tooth-ach.</item>
+               <item>VI. To make the teeth white.</item>
+               <item>VII. A precious water for the Peſtilence.</item>
+               <item>VIII. For the Palſey.</item>
+               <item>IX. A comfortable broth for a ſick body.</item>
+               <item>X. To heal a cut or freſh wound.</item>
+               <item>XI. A medecine for the Squinzie.</item>
+               <item>XII. For the Jaundies.</item>
+               <item>XIII. For the ſwelling of the legs.</item>
+               <item>XIV. To break a Cake in a Womans belly that cometh with ſorrow.</item>
+               <item>XV. For the bloody Flux.</item>
+               <item>XVI. To cauſe one to make water if it be ſtopt.</item>
+               <item>XVII. For the Piles.</item>
+               <item>XVIII. For the Itch.</item>
+               <item>XIX. For the Pleureſie.</item>
+               <item>XX. For him that ſpitteth blood having ſome vein of his breaſt broken.</item>
+               <item>XXI. For the Scrophulus, called the Kings Evil.</item>
+               <item>XXII. Againſt all maner of Peſtilence or Plague.</item>
+               <item>XXIII. To make a Carbuncle break, or any other botch.</item>
+               <pb facs="tcp:165388:4"/>
+               <item>XXIV. For worms in children.</item>
+               <item>XXV. For an Ague.</item>
+               <item>XXVI. For the falling-ſickneſs.</item>
+               <item>XXVII. For a Stitch.</item>
+               <item>XXVIII. For a ſore throat.</item>
+               <item>XXIX. For a ſcald with fire or hot liquor.</item>
+               <item>XXX. If a childs water be ſtopt.</item>
+               <item>XXXI. Children ſtuft with cold and flegm.</item>
+               <item>XXXII. To eaſe the pain and ſwelling of the Gout.</item>
+               <item>XXXIII. For a Tympany.</item>
+               <item>XXXIV. For an Earwigg in the Ear.</item>
+               <item>XXXV. For the bleeding of the fundament.</item>
+               <item>XXXVI. For the green ſickneſs.</item>
+               <item>XXXVII. For the Convulſion fits in young Children.</item>
+               <item>XXXVIII. A dyet drink to cure the French Pox in a ſhort time: as alſo the Canker upon the yard.</item>
+               <item>XXXIX. Pills for the ſame to be uſed after the drink.</item>
+               <item>XL. To dye hair black.</item>
+            </list>
+            <list>
+               <item>1. To make a mixt ſtone which being ſpit upon maketh fire.</item>
+               <item>2. Two waters they being mingled one with the other will become like milk, and it is good to take ſpots out of the face.</item>
+               <item>3. To make a bullet to hit all marks, yea to kill a bird flying in the air.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="7" facs="tcp:165388:4"/>
+            <head>A NEW DISPENSATORY OF Fourty Phyſical Receipts.</head>
+            <div type="treatment_recipe">
+               <head>
+                  <hi>I.</hi> A ſalve for all Sores.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>Ake Sallet Oyl, a Pint and a half, as much Turpentine, Roſin a quarter of a pound, Maſtix Myrrhe, Frankincenſe beaten to a powder, unwrought Wax half a pound, Sheeps Tallow four pound, Ragwort, Plantin, Orpin, Wormwood, Rue, Camomil, of each two handfuls, Cut theſe Herbs and ſeeth them in the things above written, then put to it one ounce of Red Saunders in fine Powder, let it boyl ſoftly, always ſtirring it till it be well mingled together; then take it from the fire, and ſtrain it through a ſtrong Canvaſs, and keep it for uſe.</p>
+            </div>
+            <div type="treatment_recipe">
+               <head>
+                  <hi>II.</hi> For a Pinn and Web, and Pearl in the Eye.</head>
+               <p>TAke fine white Ginger, grate it upon a Whetſtone, and mingle it fine, with a little white Copperoſe; and when the Patient goeth to Bed put ſome into his Eye with a quill, and when it hath been there a while, take the Juice of ground Ivy mingled with Womans Milk, and put three of four drops into the Eye, Evening and Morning, after the ſaid Powder hath been in the Eye half an hour.</p>
+            </div>
+            <div type="treatment_recipe">
+               <head>
+                  <hi>III.</hi> A ſpecial water for ſore Eyes.</head>
+               <p>TAke a Gallon of fair running Water, and put it into a fair Earthen Pot or Pan, put therein ſo much white Copperoſe as an Egg, and cover it, and ſo on the morrow when the Copperoſe is all melted, ſcum
+<pb n="8" facs="tcp:165388:5"/>the top clean with a Feather, then pour all the water fine, ſoftly into an<g ref="char:EOLhyphen"/>other clean Pan from the grounds, do this five or ſix days, till you perceive no grounds left, then put to it a pint of white Roſe water, ſo keep it in glaſſes, and ſet in the Sun, for the ſpace of a moneth, after cleanſe it through a fine Linnen cloth, keep it for uſe, of it drop a few drops in the Eyes, Morning and Evening.</p>
+            </div>
+            <div type="treatment_recipe">
+               <head>
+                  <hi>IV.</hi> For Deafneſs in mans Ears.</head>
+               <p>TAke <hi>
+                     <g ref="char:V">Ʋ</g>nguentum Agrippae,</hi> and Oyl of Bays, of each a like quantity, and mingle them together, put thereof into the Ears, it will open the Ears, and make him hear by Gods help.</p>
+            </div>
+            <div type="treatment_recipe">
+               <head>
+                  <hi>V.</hi> For the Toothache.</head>
+               <p>TAke a quantity of Pelitory of Spain, as much Staveſacre, half ſo much long Pepper, beat them into a fine powder, temper with them three or four Corns of Bay Salt bruiſed, dip your finger in this powder and therewith rub your Gums and Tooth, then hold open your Mouth, and let the Rheumatick humor run out, and it will eaſe you, and if the Tooth be hollow to make it fall out of it ſelf; take VVheat flowre and mix it with the milk of the herb called Spurg, that hath milk in it, and make thereof, as it were a Paſte or Dough, with the which you ſhall fill the hole of the ſame Tooth, and leave it in a certain time, and the Tooth will fall out of it ſelf: Alſo if you waſh your Mouth once a moneth with VVine, wherein the Root of the ſaid herb hath been ſod<g ref="char:EOLhyphen"/>den, you ſhall never have pain in your Teeth.</p>
+            </div>
+            <div type="treatment_recipe">
+               <head>
+                  <hi>VI.</hi> To make Teeth white.</head>
+               <p>TAke Vinegar of Squills, and dip a little peece of a Linnen rag in it, and rub the Teeth and Gums therewith; this alſo faſtneth the Gums, comforteth the Roots of the Teeth, and maketh a ſweet Breath.</p>
+            </div>
+            <div type="treatment_recipe">
+               <head>
+                  <hi>VII.</hi> A precious Water for the Peſtilence.</head>
+               <p>TAke the waters of Tormentil, Scabious, Dittancy, Pimpernel, Be<g ref="char:EOLhyphen"/>tony, Marigolds, Featherfew, of each a like quantity, diſtil all theſe herbs together: Of this water, drink every morning faſting, three or four ſpoonfuls.</p>
+            </div>
+            <div type="treatment_recipe">
+               <head>
+                  <hi>VIII.</hi> For the Palſey.</head>
+               <p>TAke Roſemary, Sage, Herbmaudlin, of each a handful, Camomil flowers three handfuls, and with Sallet Oyl make Oyl thereof, as
+<pb n="9" facs="tcp:165388:5"/>you make Oyl of Roſes, and ſo anoint the grieved parts therewith.</p>
+            </div>
+            <div type="treatment_recipe">
+               <head>
+                  <hi>IX.</hi> A comfortable Broth for a ſick body.</head>
+               <p>TAke an old Cock, ſcald and quarter him, and bruiſe his fleſh and bones, then take a pot that will hold a gallon, and fill it with fair water, and put the Cock in it, ſcum it clean, then take a handful of Raiſins of the Sun ſtoned, half ſo much Pruines the ſtones pickt out, half a handful of Currans, Borrage, Succory, Endive, Bugloſs, of each half a handful, the bottome of a Manchet and a little large Mace; put all theſe together into your pot with a little Salt, let it boyl a good while; then take a Saucerfull out of the Pot, and if it come to a Jelly, it is enough; if you have not a Cock, take a Leg of Veal in ſtead thereof.</p>
+            </div>
+            <div type="treatment_recipe">
+               <head>
+                  <hi>X.</hi> To heal a cut or freſh wound.</head>
+               <p>TAke ſo much Turpentine as an Egg, mingle the yolks of two Eggs very well with it, then ſpread ſome of it upon ſome lint, mingle alſo a little Oyl of St. John-wort with it, dreſs it twice a day, and it will heal it.</p>
+            </div>
+            <div type="treatment_recipe">
+               <head>
+                  <hi>XI.</hi> A Medicine for the Squinſie.</head>
+               <p>TAke the aſhes of Centory, and the powder of white Dogs-turd, make it into a Plaiſter with Honey, ſpread it upon a cloth and lay it upon the grief.</p>
+            </div>
+            <div type="treatment_recipe">
+               <head>
+                  <hi>XII.</hi> For the Jandis.</head>
+               <p>TAke Turmerick in powder, a Groates weight, Engliſh Saffron the weight of two pence, the ſhaving of Ivory, a Groates weight, mingle them together, and drink every morning two penny weight thereof, either in Milk, Muskadine, or white VVine.</p>
+            </div>
+            <div type="treatment_recipe">
+               <head>
+                  <hi>XIII.</hi> For the ſwelling of the Legs.</head>
+               <p>TAke VVallwort, Camomil, Mallows, and Havhoove, being very clean, ſeethe them well in water, therewith waſh your Legs often, fine ſoftly, then dry them clean, and mingle ſome Oyl of Roſes, and Dialthea together, and anoint them therewith, and it will aſſwage it.</p>
+            </div>
+            <div type="treatment_recipe">
+               <head>
+                  <hi>XIV.</hi> To break a cake in a Womans belly that cometh with ſorrow.</head>
+               <p>TAke Parſely, Iſop, Sage, Wormwood and Tanſey, ſeeth them in a pottle of ſtale Ale to a quart, then ſtrain it, of that drink a Wine<g ref="char:EOLhyphen"/>glaſs
+<pb n="10" facs="tcp:165388:6"/>full in the morning hot, and evening cold, and take the bowels of a Cat, and lay them as warm as they come out to the ſore ſide.</p>
+            </div>
+            <div type="treatment_recipe">
+               <head>
+                  <hi>XV.</hi> For the bloody Flux.</head>
+               <p>TAke a quart of milk ſet it on the fire, and when it doth ſeethe, put in a piece of Roch-allome. then will riſe a curd, take it off, drink the whey as hot as you can endure it, and if your ſtomack can bear it eat the curd alſo.</p>
+            </div>
+            <div type="treatment_recipe">
+               <head>
+                  <hi>XVI.</hi> To cauſe one to make water if it be ſtopt.</head>
+               <p>TAke Engliſh Saffron in fine powder, pure black Sope, one as much as the other, mingle it together, ſpread it upon the fleſhy ſide of white Leather, make thereof plaiſters, and lay it upon the Navil of the patient; Give him alſo the powder of the herb Golden rod, as much as you can take up with a ſix pence in a rear Egg, or in a glaſs full of Rheniſh or white Wine, and he ſhall make water.</p>
+            </div>
+            <div type="treatment_recipe">
+               <head>
+                  <hi>XVII.</hi> For the Piles.</head>
+               <p>TAke Treacle, ſpread it upon brown paper, and lay it to the ſore place, and it will help.</p>
+            </div>
+            <div type="treatment_recipe">
+               <head>
+                  <hi>XVIII.</hi> For the Itch.</head>
+               <p>TAke the roots of Elecampane and reddocks a pretty quanty, boil them in water untill they be tender, then ſtamp them and fry them with Barrows Greace, and anoint you therewithal, and it will kill it.</p>
+            </div>
+            <div type="treatment_recipe">
+               <head>
+                  <hi>XIX.</hi> For the Pluriſie.</head>
+               <p>TAke a fair Pippin, cut off the top, take out the coar, fill it half full with fine powder of <hi>Olibanum,</hi> ſo lay on the top again, roaſt it fine leaſurely upon the embers, take heed it do not burn: being roaſted e<g ref="char:EOLhyphen"/>nough, cut it into four parts with the <hi>Olibanum</hi> in it, ſo give it the pa<g ref="char:EOLhyphen"/>tient to eat, it will by and by make the Apoſtume to break, and heal him clean.</p>
+            </div>
+            <div type="treatment_recipe">
+               <head>
+                  <hi>XX.</hi> For ſpitting of blood by breaking a vein in the breaſt.</head>
+               <p>TAke Mice dung beaten to a fine powder, as much as will lye upon a Groat, and put it into half a glaſs full of the Juyce of Plantain, with a little Sugger, give it the Patient to drink in the morning faſting, and at night going to bed, continue this, and it will make him ſound.</p>
+            </div>
+            <div type="treatment_recipe">
+               <pb n="11" facs="tcp:165388:6"/>
+               <head>
+                  <hi>XXI.</hi> For the Scrophulus, called the Kings Evill.</head>
+               <p>TAke Ceruſe, or white lead beaten to a fine powder four ounces, Sallet Oyl eight ounces, let it boil together five or ſix hours, ſtir<g ref="char:EOLhyphen"/>ring it continually, and when it is become very black, then it is ſodden enough, ſpread it upon a linnen cloth, and lay it unto the place of the ſore; if the ſores be broken they will be healed ſhortly, if not, they will diſſolve and looſe, and ſhortly heal throughly.</p>
+            </div>
+            <div type="treatment_recipe">
+               <head>
+                  <hi>XXII.</hi> Againſt all maner of Peſtilence or Plague.</head>
+               <p>TAke an Onion and cut it overthwart, then make a little hole in the middle of each piece, the which you ſhall fill with Treacle, and lay the pieces together again, and wrap them in a wet brown paper, and roaſt them in the hot embers, and being roaſted enough, preſs out the Juice of it, and give the Patient to drink thereof a ſpoonfull, and ſuddenly he ſhall feel himſelf better.</p>
+            </div>
+            <div type="treatment_recipe">
+               <head>
+                  <hi>XXIII.</hi> To make a Carbuncle, or any other botch to break.</head>
+               <p>TAke Bay Salt well beaten into powder, and ſifted, incorporate it with a yolk of an Egg, and lay it upon the Carbuncle or ſore, and be aſſured that (with the Grace of God) it will draw to it ſelf all the venom and poyſon of the Plague or ſore, ſo that in a ſhort time he ſhall be cured.</p>
+            </div>
+            <div type="treatment_recipe">
+               <head>
+                  <hi>XXIV.</hi> For worms in Children.</head>
+               <p>TAke halfe a pint of new Milk of a red Cow, half a ſpoonfull of Wormſeed ſmall beaten, boil this a little while, then put to it two ſpoonfuls of life Honey, a little Saffron, as much ſcraped Harts-horn as will lye upon a ſix pence, boil all this together a little while: this will ſerve for three mornings drunk luke-warm.</p>
+            </div>
+            <div type="treatment_recipe">
+               <head>
+                  <hi>XXV.</hi> For an Ague.</head>
+               <p>TAke a Nutmeg, beat it to powder, and the like quantity of burnt Alom, a quarter of a pint of white Wine Vineger, mix all toge<g ref="char:EOLhyphen"/>ther, give it an hour before the fit, and go to bed.</p>
+            </div>
+            <div type="treatment_recipe">
+               <head>
+                  <hi>XXVI.</hi> For the Falling-ſickneſs.</head>
+               <p>TAke a pottle of Sack; Piony roots two handfuls, make them clean, and bruiſe them in a Morter, infuſe them in ſome of the wine four and twenty hours, then ſtrain them hard, and put all the ſtraining to
+<pb n="12" facs="tcp:165388:7"/>the reſt of the wine, and keep it for uſe. To a childe give a ſpoonful in the morning, and as much going to be. To a ſtrong body give four ſpoonfuls at a time, there is no danger in it.</p>
+            </div>
+            <div type="treatment_recipe">
+               <head>
+                  <hi>XXVII.</hi> For a Stitch.</head>
+               <p>TAke a dry Acorn, beat it to a fine powder, and as much Treacle as a Haſel nut mixt together in a glaſs full of white wine, give it the Patient to drink going to bed.</p>
+            </div>
+            <div type="treatment_recipe">
+               <head>
+                  <hi>XXVIII.</hi> For a ſore Throat.</head>
+               <p>TAke the red Oak buds when they come out firſt, diſtill them by a ſoft fire in <hi>Balneo Mariae,</hi> then put in as much Roch Allome as will make it taſte a little of it, ſo keep it all the year, gargle the throat therewith, and it will heal, skin, and cool it.</p>
+            </div>
+            <div type="treatment_recipe">
+               <head>
+                  <hi>XXIX.</hi> For a ſcald with fire or hot liquor.</head>
+               <p>CUt an Onion a ſunder, and lay it preſently to the place, it will take out the fire, and keep it from further danger.</p>
+            </div>
+            <div type="treatment_recipe">
+               <head>
+                  <hi>XXX.</hi> If a Childs water be ſtopt.</head>
+               <p>TAke Watercreſſes a good handful, and heat them twixt two Bricks, and lay them as hot as can be endured to the ſtones, and bottome of the belly, and ſo let it lye, and he ſhall make water.</p>
+            </div>
+            <div type="treatment_recipe">
+               <head>
+                  <hi>XXXI.</hi> Children ſtuft with cold and flegm.</head>
+               <p>IN a pint of new Milk, boil a head of Garlick: when it is well boiled, give the milk of it warm to drink (but not the Garlick) with a little Suggar, three mornings together.</p>
+            </div>
+            <div type="treatment_recipe">
+               <head>
+                  <hi>XXXII.</hi> To eaſe the pain and ſwelling of the Gout.</head>
+               <p>TAke a raw Turnip, peel and ſtamp it, make it a Pultis, and lay it ſo raw unto the place; if the pain goeth not away take another, ſo change every ſix hours till it ceaſe.</p>
+            </div>
+            <div type="treatment_recipe">
+               <head>
+                  <hi>XXXIII.</hi> For a Tympany.</head>
+               <p>TAke Scurvy-graſs one handful, put it into a pint of white wine, let it ſtand all night, then boil it, in the boiling put to it a quarter of a pint of new Milk, ſtrain it, drink it cold morning and evening, firſt, and laſt.</p>
+            </div>
+            <div type="treatment_recipe">
+               <pb n="13" facs="tcp:165388:7"/>
+               <head>
+                  <hi>XXXIV.</hi> For an Earwig in the Ear.</head>
+               <p>THe Juice of Wormwood, Rew, and Southernwood, of each a like quantity, put it into the Ear, and lay ſome of the beaten Herbs un<g ref="char:EOLhyphen"/>to it, and that will kill it in one night.</p>
+            </div>
+            <div type="treatment_recipe">
+               <head>
+                  <hi>XXXV.</hi> For the bleeding of the Fundament.</head>
+               <p>TAke the Ruſt of a Bell, or Bell-mettal, drink it with fair water, and it will ſtay it preſently.</p>
+            </div>
+            <div type="treatment_recipe">
+               <head>
+                  <hi>XXXVI.</hi> For the Green-ſickneſs.</head>
+               <p>TAke ſeven of the greateſt leaves of Ribwort, ſtamp and ſtrain them therewith a little white Wine or Beer, and drink it faſting in the morning, for a week together; and the next week drink burned white wine, with as much <hi>Spermaceti</hi> as will cover ſix pence, twice in the week, and it will ſurely cure it.</p>
+            </div>
+            <div type="treatment_recipe">
+               <head>
+                  <hi>XXXVII.</hi> For the Convulſion fits in young Children.</head>
+               <p>TAke three Seeds of ſingle Pyony, peel off the black Skin, and beat them into fine powder, put it into a ſpoonful of black Cherry water, make the childe drink it, and preſently after it, give it a ſpoonful or two more of the Cherry water by it ſelf, to waſh down the powder.</p>
+            </div>
+            <div type="treatment_recipe">
+               <head>
+                  <hi>XXXVIII.</hi> A Dyet drink to cure the French Pox in a ſhort time without much ſweating.</head>
+               <p>TAke Chips of Guajack four pound, <hi>Salſa Parilla,</hi> ſliced, ſplit, and cut ſmall two pound, <hi>Sene Oriental</hi> four ounces, <hi>Agrimony</hi> one handful, Cinamond two ounces, Cloves and Nutmegs of each two drams, which you muſt break a little in a Morter; then take a veſſel of about five Gallons, and put all theſe drugs into it, and put to it four Gal<g ref="char:EOLhyphen"/>lons of white wine, or ſtrong Ale, and ſo let it ſteep twenty four hours.</p>
+               <p>Then you muſt take of it every morning in your Bed, ſomewhat a<g ref="char:EOLhyphen"/>bove half a pint, cover you well, keep in your Bed two hours, ſweat one hour, dry your ſelf well, and rub you with Linnen clothes, then you may riſe and go about your buſineſs. Note before you take this drink, purge you once with the following Pills, and let blood; you muſt not eat any ſowre things, Cheeſe, Salt, Fiſh, but onely Roaſted meat, and drink always of this Dyet drink; and having drunk all this Dyet drink, purge you with thoſe Pills, taking a dram betimes in the morning.</p>
+               <p>Alſo if any Puſhes, Ulcers, Cankers, ſhould break out about a mans
+<pb n="14" facs="tcp:165388:8"/>body, eſpecially upon the Yard or elſewhere: Take a quart of running water, heat in a Pipkin, put then to it four ounces of good unſlackt Lime, let it ſtand all night, in the morning skim it very clean from the skin, which is gathered upon it; then take off the cleareſt water with<g ref="char:EOLhyphen"/>out out any dregs of the Lime in it, keep it in a glaſs<g ref="char:punc">▪</g> put to a pint of it one dram of burnt Allome, twenty grains of ſweet Mercury; with this water waſh ſuch affected places, and lay a wet rag in the ſame water upon it.</p>
+               <p>VVith the Lime ſo unſlackt, you may make a very good ſalve, for Pi<g ref="char:EOLhyphen"/>ſtulaes, Cankers, old ſores, putting ſome Linſeed Oyl to it, and well-mingled, apply it as a Plaiſter.</p>
+            </div>
+            <div type="treatment_recipe">
+               <head>
+                  <hi>XXXIX.</hi> The Pills for the ſame to be uſed after the drink.</head>
+               <p>℞ <hi>SCammon, Rhebarb, Trochiſci, Alhhandal, aloes Succotrini, Cremor tartari ana <g ref="char:dram">ʒ</g>ii. Tutiae praeparat. <g ref="char:dram">ʒ</g>i. Mercur. dulcis ℥i.</hi>
+               </p>
+               <p>
+                  <hi>Redige omnia in pulverem tenuiſſimum, &amp; excipiantur cum ſyrupo roſar.</hi> the Doſe is one dram at a time, taken betimes in the morning, and ſome warm Poſſet drink after it.</p>
+            </div>
+            <div type="treatment_recipe">
+               <head>
+                  <hi>XL.</hi> To Dye Hair black.</head>
+               <p>TAke Gum Lye, and boyl with a handful of Leaves of Beet, three or four handful of Sage Leaves, either green or dry, and a dram of Myrrhe with Bay leaves, and a few leaves or outward peels of a Walnut, with this Lye wet your Hair, but take heed you waſh not your face with it; yet nevertheleſs, after you have wetted thus your Hair well with a Bruſh, or a Comb, with a Spunge at it; waſh your face after with fair water or white wine. Let you Hair dry of it ſelf.</p>
+            </div>
+            <div type="treatment_recipe">
+               <head>To make a mixt ſtone, which being ſpit upon maketh fire.</head>
+               <p n="1">I. TAke quick Lime and Saltpeter fined divers times, <hi>Tutia Alexan<g ref="char:EOLhyphen"/>drina</hi> not prepared, Calamint, as much of the one as of the other, quick Brimſtone and Camphere, of each of them two parts, and let all theſe things be beaten ſmall, and ſifted through a fine ſearce; then put the ſaid powders in a new Linnen cloth, and binde them hard. This done take two great Goldſmiths Croſſetees or melting Pots, and put the ſaid powders in them, and ſet the one upon the other, mouth to mouth, and binde them faſt with Wyer, and <hi>Lutum Sapientiae,</hi> ſo that it may take no maner of Ayr, and dry them in the Sun, and when it is dry, the powder will be yellow. This done, ſet the Croſſets in a Furnace of Brick or Lime, and when it is cold again, take it out, and you ſhall finde your ſubſtance
+<pb n="15" facs="tcp:165388:8"/>of the colour of brick, and it ſhall be perfect and good. And when you uſe of it, to make a fire, or light a candle, ſpit upon it, or wet it with a drop of water, and incontinent put to it your Match, and it will light it and burn. And when you will quench it again, blow on it as you blow out a candle, and it will go out.</p>
+            </div>
+            <div type="treatment_recipe">
+               <head>To make two waters, they being mingled together will become like, good to take away the ſpots and freckles in the face.</head>
+               <p n="2">II. TAke Lytharge of ſilver, half a pound, beat it to a powder, put to it a quart of Wine Vinegar, boyl it together till half be waſted away, and then draw the liquor from the Lytharge with Woollen ſhreds, &amp; ſo keep it for your uſe in a Viall cloſe ſtopt: take alſo of Cam<g ref="char:EOLhyphen"/>phere three drams, Musk four grains: againſt all theſe things put one ounce and a half of Oyl of Tartar, and put all in a pint of Roſe water, and boil it till the third part be conſumed, and then draw the reſt with Woollen ſhreds, and keep it to your uſe in a Viall cloſe, and when you will uſe it, take a very little bottle glaſs, and fill it half full of the firſt water, and fill it up with the ſecond water, and it will coagulate toge<g ref="char:EOLhyphen"/>ther ſtraightways marvellouſly as white as milk, wherewith you muſt often waſh the red ſpots and freckles in your face.</p>
+            </div>
+            <div type="treatment_recipe">
+               <head>To make a bullet to hit all marks, yea to kill a bird flying in the air.</head>
+               <p n="3">III. TAke Pewter, Lead, and Quick-ſilver of each alike, melt all toge<g ref="char:EOLhyphen"/>ther, and caſt bullets of it, ſhoot them out of your Gun, and they ſpread abroad that you cannot miſs your marke.</p>
+               <p>FUrthermore, I pull out all maner of Hollow Teeth, ſtumps or roots, with great dexterity, and eaſe, without almoſt any pain.</p>
+               <p>I make Teeth ſmooth and white, ſet in Artificial ones, that they ſhall not be diſcerned from the natural ones, yea I do all to Teeth; (with<g ref="char:EOLhyphen"/>out arrogancy and prejudice to other) as well as any whoſoever, and I know none ſhall go beyond me in that Art.</p>
+               <p>All theſe above written Receipts you may make your ſelves if you pleaſe, or elſe come to me, and I will ſhew you the manual operation of them and many others, to make them for you.</p>
+               <closer>
+                  <signed>I live at preſent in <hi>Bedford-</hi>ſtreet, next door unto the Sign of the Fox, over againſt the New Exchange. Per me <hi>Salvator Winter</hi> of <hi>Naples</hi> Operator.</signed>
+               </closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
